@@ -1,0 +1,9 @@
+# Large video files
+media/*.mp4
+media/*.webm
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
